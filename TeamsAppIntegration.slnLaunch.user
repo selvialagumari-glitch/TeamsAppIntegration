@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TeamsApp.Server\\TeamsApp.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TeamsApp.Client\\TeamsApp.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
