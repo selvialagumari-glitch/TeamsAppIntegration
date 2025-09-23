@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TeamsApp.Shared/1.0.0": {
+        "runtime": {
+          "TeamsApp.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeamsApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
